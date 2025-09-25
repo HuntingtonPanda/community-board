@@ -34,6 +34,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+![Web102Project1](https://github.com/user-attachments/assets/5bd28f9e-678e-429f-8f5e-87bde7ee0f1f)
+
 <img src='https://imgur.com/gallery/codepath-project-1-ucla-community-board-fXMYhZ9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
