@@ -1,0 +1,26 @@
+.header{
+  margin-top: 0px;
+  color: aqua;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card {
+  flex: 1 1 200px; /* grow | shrink | basis */
+  max-width: 300px;
+  background: #001f86;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.card-img{  
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 8px;
+}
